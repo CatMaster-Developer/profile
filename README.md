@@ -30,19 +30,30 @@ Mail : letzzang@gmail.com
 ### 힛잇 허브 Flutter 앱 신규 개발
 
 - 소속 : 힛잇 주식회사
-- 역할 : 힛잇 허브 iPad 앱 신규 개발
-- Skill : Dart, Cubit, Clean Architecture, TCP Socket, Unit test
-- 개발 기간 : 2023.12.01 ~ 2024.07.01(7월 중 출시 예정)
+- 역할 : 힛잇 허브 안드로이드 사용자를 위한 플러터 앱 신규 개발
+- Skill : Dart, Cubit, Clean Architecture, TCP Socket, injectable, retrofit, rxdart, dio, Unit test
+- 개발 기간 : 2023.12.01 ~ 2024.07.01
 - 재직 기간 : 2021.09.01 ~ 재직중
 - 내용
-  - 기 ios전용 어플리케이션의 안드로이드 지원을 위한 flutter 앱 출시
+  - 기 ios전용 어플리케이션의 flutter용 앱 개발
+- Link : https://play.google.com/store/apps/details?id=xyz.hitithub.hub
+- 앱 동작 영상은 iOS앱과 동일
 
+### 힛잇 허브 미들 서버 개발
+
+- 소속 : 힛잇 주식회사
+- 역할 : 힛잇 허브 일부 서비스 지원을 위한 미들 서버 개발
+- Skill : Kotlin, Spring boot, JPA, QueryDSL, MySql, AWS(EC2, RDS, S3)  
+- 개발 기간 : 2023.01.01 ~ 
+- 재직 기간 : 2021.09.01 ~ 재직중
+- 내용
+  - 추가 기획에 대한 일부 서비스를 다루는 서버개발
 
 ### 힛잇 허브 앱 신규 개발
 
 - 소속 : 힛잇 주식회사
 - 역할 : 힛잇 허브 iPad 앱 신규 개발
-- Skill : SwiftUI, Combine, Concurrency, Clean Architecture, TCP Socket, Swinject, Unit test
+- Skill : SwiftUI, Combine, Concurrency, Clean Architecture, TCP Socket, Unit test
 - 개발 기간 : 2022.01.01 ~ 2022.09.20
 - 재직 기간 : 2021.09.01 ~ 재직중
 - 내용
@@ -57,7 +68,7 @@ Mail : letzzang@gmail.com
 
 - 소속 : 한국 디지털 거래소
 - 역할 : Flybit iOS 앱 신규 개발 및 유지 보수
-- Skill : UIKit, RxSwift, git, Realm, firebase, WebSocket, non-storyboard, RxAlamofire
+- Skill : Swift, RxSwift, git, Realm, firebase, WebSocket, non-storyboard, RxAlamofire
 - 개발 기간 : 2021.03.21 ~ 2021.05.25
 - 재직 기간 : 2021.03.21 ~ 2021.08.31
 - 내용
